@@ -10,7 +10,7 @@ import streamlit as st
 from dotenv import load_dotenv
 load_dotenv()
 
-os.environ['GROQ_API_KEY'] = os.getenv('GROQ_API_KEY')
+# os.environ['GROQ_API_KEY'] = os.getenv('GROQ_API_KEY')
 os.environ['LANG_CHAIN_API_KEY'] = os.getenv('LANG_CHAIN_API_KEY')
 os.environ['LANG_CHAIN_API_KEY'] = "true"
 os.environ["LANG_CHAIN_PROJECT"] = "project Q&A"
