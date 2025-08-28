@@ -1,0 +1,9 @@
+langchain_groq
+bs4
+langchain_chroma
+langchain_openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+langchain_text_splitters
